@@ -11,7 +11,7 @@ const RESOURCES = {
 "assets/AssetManifest.json": "491ee23db17a2745c0a9fc7802758573",
 "favicon.ico": "43d9fcbd22a46dcb808a5787e4b9951b",
 "main.dart.js": "209756a1a573c0506d7d274168d22df7",
-"manifest.json": "0f848795769c384e96c6d22fd9b213ce",
+"manifest.json": "9eeac789dae8289e100efea123cf19de",
 "icons/favicon-32x32.png": "21210eb786e533a08e38f2978b253cde",
 "icons/apple-icon-180x180.png": "0f508471fdca3f1e0fac038e6d94b52d",
 "icons/favicon-16x16.png": "c4deeb37eeed133cf7cea77e5058771e"

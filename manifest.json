@@ -10,7 +10,7 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/apple-icon-180x180.png.png",
+            "src": "icons/apple-icon-180x180.png",
             "sizes": "180X180",
             "type": "image/png"
         },
