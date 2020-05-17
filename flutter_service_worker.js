@@ -1,8 +1,8 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "246839d9157a8506d35fe5a3eb1385dc",
-"/": "246839d9157a8506d35fe5a3eb1385dc",
+  "index.html": "6502cb10f3afdb05bc16b518fb1683a2",
+"/": "6502cb10f3afdb05bc16b518fb1683a2",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "ed0fee828d37874b38fbe70416fe29e9",
 "assets/images/logo_bros.png": "a4959a69b8b6966604b48b6374eff4e0",
@@ -10,7 +10,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/AssetManifest.json": "491ee23db17a2745c0a9fc7802758573",
 "favicon.ico": "43d9fcbd22a46dcb808a5787e4b9951b",
-"main.dart.js": "209756a1a573c0506d7d274168d22df7",
+"main.dart.js": "b39120bfe206b1baa5b77e752622fb56",
 "manifest.json": "9eeac789dae8289e100efea123cf19de",
 "icons/favicon-32x32.png": "21210eb786e533a08e38f2978b253cde",
 "icons/apple-icon-180x180.png": "0f508471fdca3f1e0fac038e6d94b52d",
