@@ -44530,7 +44530,7 @@ if(j>0){s-=j*24
 if(j===1)r.push("1 day")
 else r.push(C.e.i(j)+" days")}if(C.C.hu(s)>0){q=C.C.hu(s)
 if(q===1)r.push("1 hour")
-else r.push(C.e.i(q)+" hrs")}j=r.length
+else r.push(C.e.i(q)+" hours")}j=r.length
 if(j>1)C.c.nE(r,j-1,"and")
 if(r.length===0){j=B.dw(C.k,18)
 i=J.L(m.r,k)
@@ -44542,7 +44542,7 @@ o=Q.bE(l,l,l," earnings reported ")
 n=C.c.b2(r," ")
 return T.kd(l,l,C.aB,!0,l,Q.bE(H.a([p,o,Q.bE(l,l,A.dJ(l,l,l,l,l,l,l,l,l,l,l,l,l,C.a2,l,l,!0,l,l,l,l,l,l),n),Q.bE(l,l,l," ago")],j),l,i,l),C.a6,l,l,1,C.a7)}else{i=B.dw(C.k,18)
 p=Q.bE(l,l,l,J.L(m.r,k))
-o=Q.bE(l,l,l," earnings will be reported in ")
+o=Q.bE(l,l,l," earnings are in ")
 n=C.c.b2(r," ")
 return T.kd(l,l,C.aB,!0,l,Q.bE(H.a([p,o,Q.bE(l,l,A.dJ(l,l,l,l,l,l,l,l,l,l,l,l,l,C.a2,l,l,!0,l,l,l,l,l,l),n)],j),l,i,l),C.a6,l,l,1,C.a7)}}},
 D8:function(){var t,s=J.hU(J.L(this.r,"next_earnings_utc"),1000),r=new P.bl(s,!1)

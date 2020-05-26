@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "6502cb10f3afdb05bc16b518fb1683a2",
-"/": "6502cb10f3afdb05bc16b518fb1683a2",
+  "index.html": "2df217c6781c85a3bb8ba80fb5b70319",
+"/": "2df217c6781c85a3bb8ba80fb5b70319",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "7e5d662529d5d1f4683f3d31f5f35591",
 "assets/images/stocktwits_full_logo.png": "b76d479cc5bb7f247ce69e45647d82a9",
@@ -33,7 +33,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/AssetManifest.json": "30b29567d05016bcbee118723275e5bb",
 "favicon.ico": "43d9fcbd22a46dcb808a5787e4b9951b",
-"main.dart.js": "b49db02fbc7acc19f4c21321b0e4d5b4",
+"main.dart.js": "4020a83f25a542d0cb5828684c7c9592",
 "manifest.json": "9eeac789dae8289e100efea123cf19de",
 "icons/favicon-32x32.png": "21210eb786e533a08e38f2978b253cde",
 "icons/apple-icon-180x180.png": "0f508471fdca3f1e0fac038e6d94b52d",
