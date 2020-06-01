@@ -33,8 +33,9 @@ const RESOURCES = {
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/AssetManifest.json": "30b29567d05016bcbee118723275e5bb",
 "favicon.ico": "43d9fcbd22a46dcb808a5787e4b9951b",
-"main.dart.js": "ff2f32797cb6d7b183181281db2ed725",
+"main.dart.js": "5755ed632a2000f8741ecac9faa1132e",
 "manifest.json": "9eeac789dae8289e100efea123cf19de",
+"wget-log": "9770d68b5a2f406a435dce94ebb33000",
 "icons/favicon-32x32.png": "21210eb786e533a08e38f2978b253cde",
 "icons/apple-icon-180x180.png": "0f508471fdca3f1e0fac038e6d94b52d",
 "icons/favicon-16x16.png": "c4deeb37eeed133cf7cea77e5058771e"
