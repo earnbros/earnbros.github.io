@@ -6,7 +6,6 @@ const RESOURCES = {
   "index.html": "fa8ff7d74e926bfc787ebbf45b5db463",
 "/": "fa8ff7d74e926bfc787ebbf45b5db463",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "7e5d662529d5d1f4683f3d31f5f35591",
 "assets/images/stocktwits_full_logo.png": "b76d479cc5bb7f247ce69e45647d82a9",
 "assets/images/market_chameleon_full_logo.png": "b7e4661eaf4e294a6355697fe7a09607",
 "assets/images/stocktwits_logo.png": "f4ed313c043609e1778056d6dd648767",
@@ -35,9 +34,8 @@ const RESOURCES = {
 "assets/NOTICES": "7e5d662529d5d1f4683f3d31f5f35591",
 "arc-sw.js": "1157b02ca30f04f3b201e59c76ab3096",
 "favicon.ico": "43d9fcbd22a46dcb808a5787e4b9951b",
-"main.dart.js": "be99d264a20f759180e70efcee861235",
+"main.dart.js": "93510b1551afeecfc6eca101632781d6",
 "manifest.json": "9eeac789dae8289e100efea123cf19de",
-"wget-log": "9770d68b5a2f406a435dce94ebb33000",
 "icons/favicon-32x32.png": "21210eb786e533a08e38f2978b253cde",
 "icons/apple-icon-180x180.png": "0f508471fdca3f1e0fac038e6d94b52d",
 "icons/favicon-16x16.png": "c4deeb37eeed133cf7cea77e5058771e"
