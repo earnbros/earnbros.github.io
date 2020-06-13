@@ -34,7 +34,7 @@ const RESOURCES = {
 "assets/NOTICES": "7e5d662529d5d1f4683f3d31f5f35591",
 "arc-sw.js": "1157b02ca30f04f3b201e59c76ab3096",
 "favicon.ico": "43d9fcbd22a46dcb808a5787e4b9951b",
-"main.dart.js": "93510b1551afeecfc6eca101632781d6",
+"main.dart.js": "7b398283b2494730db0e4b28dc6a8192",
 "manifest.json": "9eeac789dae8289e100efea123cf19de",
 "icons/favicon-32x32.png": "21210eb786e533a08e38f2978b253cde",
 "icons/apple-icon-180x180.png": "0f508471fdca3f1e0fac038e6d94b52d",
